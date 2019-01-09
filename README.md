@@ -23,9 +23,9 @@
 * ~~[Cycle](https://www.blendswap.com/blends/view/72436)~~
 * ~~[City Bus](https://www.blendswap.com/blends/view/47548)~~
 * ~~[Volkswagon Bus](https://www.blendswap.com/blends/view/48280)~~
-* [Hen](https://www.blendswap.com/blends/view/76313)
+* ~~[Hen](https://www.blendswap.com/blends/view/76313)~~
 * [Low Poly Hen](https://www.blendswap.com/blends/view/76321)
-* [Dog](https://www.blendswap.com/blends/view/71960)
-* [Dog 2](https://www.blendswap.com/blends/view/77864)
-* [Cat](https://www.blendswap.com/blends/view/57118)
-* [cat 2](https://www.blendswap.com/blends/view/86110)
+* ~~[Dog](https://www.blendswap.com/blends/view/71960)~~
+* ~~[Dog 2](https://www.blendswap.com/blends/view/77864)~~
+* ~~[Cat](https://www.blendswap.com/blends/view/57118)~~
+* ~~[cat 2](https://www.blendswap.com/blends/view/86110)~~
