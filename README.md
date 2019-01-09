@@ -18,11 +18,11 @@
 * ~~[Low Poly human](https://www.blendswap.com/blends/view/71843)~~
 * ~~[Standing Woman](https://www.blendswap.com/blends/view/66413)~~
 * ~~[Girl](https://www.blendswap.com/blends/view/66416)~~
-* [Motorbike](https://www.blendswap.com/blends/view/48422)
-* [Motorbike_modern](https://www.blendswap.com/blends/view/66781)
-* [Cycle](https://www.blendswap.com/blends/view/72436)
-* [City Bus](https://www.blendswap.com/blends/view/47548)
-* [Volkswagon Bus](https://www.blendswap.com/blends/view/48280)
+* ~~[Motorbike](https://www.blendswap.com/blends/view/48422)~~
+* ~~[Motorbike_modern](https://www.blendswap.com/blends/view/66781)~~
+* ~~[Cycle](https://www.blendswap.com/blends/view/72436)~~
+* ~~[City Bus](https://www.blendswap.com/blends/view/47548)~~
+* ~~[Volkswagon Bus](https://www.blendswap.com/blends/view/48280)~~
 * [Hen](https://www.blendswap.com/blends/view/76313)
 * [Low Poly Hen](https://www.blendswap.com/blends/view/76321)
 * [Dog](https://www.blendswap.com/blends/view/71960)
