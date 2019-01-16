@@ -1,9 +1,4 @@
-# blender-training-data
-* 5 cars are done. total 8\*5\*5 = around 150 images.
-
-
-
-
+#DATA FOR PROJECT
 ### links for downloading:
 * ~~[Deer](https://www.blendswap.com/blends/view/21278)~~
 * ~~[Horse](https://www.blendswap.com/blends/view/78140)~~
